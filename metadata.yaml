@@ -1,0 +1,27 @@
+_repo: Terre-Napole-n--a-History-of-French-Explorations-and-Projects-in-Australia_7450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Ernest, Sir
+    birthdate: 1868
+    deathdate: 1939
+    gutenberg_agent_id: '1406'
+    url: http://www.gutenberg.org/2009/agents/1406
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baudin, Nicolas, 1754-1803'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcc 'DU'
+- GITenberg
+title: Terre Napoleón; a History of French Explorations and Projects in Australia
+url: http://www.gutenberg.org/ebooks/7450
